@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/4348_projectOne.dir/project1.c.o -o 4348_projectOne 

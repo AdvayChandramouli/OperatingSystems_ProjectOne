@@ -1,0 +1,32 @@
+1
+25 //Counter value = 25
+27 //Push counter to stack
+23 //
+7 //Address of Recursive Countdown function
+28 //Pop parameter
+50
+
+//Recursive Countdown function: Print integer countdown from COUNTER value to 1
+1   //ld 1
+1
+14   //CopyToX
+6   //LoadSpX  - get parameter
+21 //Check if parameter == 0, if so pop from stack & return
+26
+14 //CopyToX
+9  //Print output
+1
+1  //Print newline after each output
+10
+9
+2
+26 //Counter -=1
+15 //CopyFromX
+27 //Push counter-1 into stack
+23 //Recursive Call
+7
+28 //Pop counter
+24 //Return function
+
+.1000
+30   interrupt handler - just return

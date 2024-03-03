@@ -1,0 +1,3 @@
+/mnt/c/Users/advay/CertificationProjects/cppBasics/os-projects/4348-projectOne/cmake-build-debug/CMakeFiles/4348_projectOne.dir
+/mnt/c/Users/advay/CertificationProjects/cppBasics/os-projects/4348-projectOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/advay/CertificationProjects/cppBasics/os-projects/4348-projectOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
