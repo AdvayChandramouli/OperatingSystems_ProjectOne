@@ -106,7 +106,7 @@ Memory will contain one program that the CPU will execute and then the simulatio
 | 30     | Return from system call                          |
 | 50     | End execution                                    |
 
-###Running this Project:
+### Running this Project:
 compile:    gcc project1.c -o project1
 command line format: [project1] [sample_filename.txt] [timer]
 run:        project1 sample1.txt 30 
